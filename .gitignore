@@ -2,3 +2,7 @@
 .hbuilderx/
 deployh5.sh
 unpackage
+/wxdist/
+/dist/
+node_modules/
+package-lock.json
